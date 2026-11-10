@@ -3,7 +3,7 @@ import EmployeeView from './components/EmployeeView';
 import AdminView from './components/AdminView';
 
 // Backend API URL - Node.js runs on port 5000
-const API_URL = 'http://localhost:5000/api';
+const API_URL = https://backend-lms-aamx.onrender.com/api';
 
 export default function App() {
   // State 1: Active user role ('employee' or 'admin')
